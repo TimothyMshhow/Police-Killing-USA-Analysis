@@ -1,5 +1,3 @@
-Sure, here's a more detailed `README` file based on the information provided:
-
 Police Killing USA Analysis
 ==========================
 
